@@ -1,0 +1,53 @@
+complaint_id,complaint_text,approx_location,date_reported,category_tag
+C-4471,Streetlight near market has been dark for weeks. Very unsafe for pedestrians at night.,Ward 7,2026-08-01,lighting
+C-4502,No light on Market Road at night. Women feel unsafe walking after dark. Please fix urgently.,Ward 7,2026-08-15,lighting
+C-4515,"I am Priya Patel, contact 9123456789. Water dispenser at station road not working for months. No water coming out at all.",Ward 3,2026-07-20,water
+C-4523,EV charging point at mall parking has been out of service since June. Screen shows error code. Multiple users affected.,Ward 5,2026-08-10,ev_charging
+C-4534,"My name is Mr. Vikram Singh. Rainwater collection system at community center is damaged. Pipes are broken and water overflows everywhere.",Ward 9,2026-07-05,infrastructure
+C-4541,Dark street near park lane. Streetlight has not been functioning for several months. Area is pitch black after sunset.,Ward 2,2026-08-20,lighting
+C-4556,Water ATM near factory gate has no water coming out. Machine display is blank and card reader broken.,Ward 10,2026-07-25,water
+C-4567,Electric vehicle charger broken at office complex. Shows fault error every time. Cannot charge my vehicle for weeks now.,Ward 10,2026-08-05,ev_charging
+C-4578,Rainwater system at warehouse district is leaking badly and not collecting any water. Completely non-functional during monsoon.,Ward 10,2026-08-12,infrastructure
+C-4589,Streetlight on highway junction flickering on and off. Sometimes stays dark for hours. Dangerous for drivers at night.,Ward 8,2026-07-30,lighting
+C-4601,No streetlight working on beach road area. Entire stretch is pitch dark after 7pm. Very dangerous area.,Ward 4,2026-08-08,lighting
+C-4612,Water machine at school gate dispenses very dirty and cloudy water. Children are falling sick. Please inspect immediately.,Ward 5,2026-07-15,water
+C-4623,Charging station at expressway stop gives error every time I try to use it. Cable connector also appears damaged.,Ward 8,2026-08-18,ev_charging
+C-4634,Rainwater harvester at public garden is broken and area is flooded. The collection tank has visible cracks.,Ward 4,2026-07-10,infrastructure
+C-4645,Streetlight near lake view road not working since many months. Entire road is dark. Multiple residents complained before.,Ward 9,2026-08-22,lighting
+C-4656,Water dispenser at park entrance has been non-functional for over six months. Display shows out of order message.,Ward 9,2026-07-28,water
+C-4667,EV charger at waterfront area is completely dead. No lights no display nothing works. Has been like this for months.,Ward 3,2026-08-14,ev_charging
+C-4678,Rainwater system at residential colony overflowing during rains. Pipes disconnected and water damaging nearby walls.,Ward 7,2026-07-22,infrastructure
+C-4700,Road has potholes near bus stop. Very dangerous for two-wheelers especially during monsoon season.,Ward 7,2026-08-03,roads
+C-4701,"Contact Smt. Lakshmi Devi at priya@email.com. Garbage not collected for 3 days in our lane. Terrible smell.",Ward 1,2026-07-18,sanitation
+C-4702,Loud construction noise at night near mill compound. Cannot sleep. Violating noise pollution rules after 10pm.,Ward 5,2026-08-06,noise
+C-4703,Stray dogs menace near playground area. Children afraid to play. Need animal control team visit.,Ward 3,2026-07-12,animals
+C-4704,Drainage clogged after rain near station plaza. Water logging on main road for two days now.,Ward 6,2026-08-09,drainage
+C-4705,Traffic signal not working at park lane junction. Causing major congestion during rush hours.,Ward 2,2026-07-27,traffic
+C-4706,Mosquito breeding in stagnant water near park entrance. Health hazard for entire ward. Please spray.,Ward 9,2026-08-16,health
+C-4707,Footpath broken and dangerous near temple street. Senior citizens tripping and falling regularly.,Ward 4,2026-07-08,roads
+C-4708,Public toilet near metro station not maintained. No water supply and extremely dirty conditions.,Ward 8,2026-08-11,sanitation
+C-4709,Large tree fallen on road near industrial area. Blocking half the road. Very dangerous for vehicles.,Ward 10,2026-07-30,trees
+C-4720,Dark area near hospital. Need better lighting urgently. Patients and visitors feel very unsafe after dark.,Ward 3,2026-08-19,lighting
+C-4721,Drinking water supply is intermittent in our area near hospital road. Only comes for 2 hours a day.,Ward 6,2026-07-14,water
+C-4722,Solar panel on building near link road looks damaged. Glass is cracked and panel is tilted at odd angle.,Ward 7,2026-08-07,infrastructure
+C-4723,Electric vehicle users in convention center area complain about lack of working charging infrastructure.,Ward 2,2026-07-25,ev_charging
+C-4724,Water logging issue during monsoon season near public garden. Drainage completely blocked.,Ward 4,2026-08-13,drainage
+C-4725,Street is too dark and unsafe for women near mill compound area. All lights seem to be non-functional.,Ward 5,2026-07-19,lighting
+C-4726,Need water facility near college campus. Nearest water ATM is always crowded or not working.,Ward 2,2026-08-21,water
+C-4727,Solar light in industrial area stopped working completely. No illumination on the entire stretch of road.,Ward 10,2026-07-16,lighting
+C-4728,Rainwater pipe is cracked near bridge approach road. Water leaking onto road surface creating slippery conditions.,Ward 3,2026-08-04,infrastructure
+C-4729,EV charger shows fault code at commercial hub. Cannot complete charging session. Tried multiple times over past week.,Ward 4,2026-07-23,ev_charging
+C-4740,Streetlight pole tilted dangerously on college road. Looks like it might fall. Risk to pedestrians.,Ward 6,2026-08-17,lighting
+C-4741,Water ATM card reader not accepting payment at riverside walk. Machine beeps but does not dispense water.,Ward 4,2026-07-11,water
+C-4742,Multiple lights out on college road stretch. At least 3 streetlights not working. Area very dark at night.,Ward 6,2026-08-23,lighting
+C-4743,No clean drinking water available near hospital road area. Water ATM has been showing error for weeks.,Ward 6,2026-07-29,water
+C-4744,Charging station screen is completely blank at market crossing. No response when vehicle is plugged in.,Ward 6,2026-08-10,ev_charging
+C-4745,Rainwater system at sports complex makes strange gurgling noise. Water not being collected properly.,Ward 5,2026-07-17,infrastructure
+C-4746,All streetlights on mill compound road are dead. Complete darkness after sunset. Very unsafe area.,Ward 5,2026-08-25,lighting
+C-4747,Water vending machine near shopping complex is leaking badly. Water pooling on the ground around it.,Ward 7,2026-07-21,water
+C-4748,EV charger cable at waterfront is damaged and wires are exposed. Serious safety hazard. Please repair urgently.,Ward 3,2026-08-15,ev_charging
+C-4749,Solar light at garden road area works intermittently. Turns on and off randomly throughout the night.,Ward 8,2026-07-26,lighting
+C-4750,Need more EV charging points in residential block area. Current demand exceeds available infrastructure.,Ward 9,2026-08-02,ev_charging
+C-4751,Water ATM near shopping complex always has a long queue. Sometimes machine runs out of water by afternoon.,Ward 7,2026-07-09,water
+C-4752,Broken solar panel visible on industrial area streetlight. Panel glass shattered and light completely non-functional.,Ward 10,2026-08-20,lighting
+C-4753,Government office area rainwater harvesting system seems abandoned. No maintenance done since installation.,Ward 1,2026-08-25,infrastructure

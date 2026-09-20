@@ -1,0 +1,80 @@
+{
+  "asset_id": "WA-2024-102",
+  "asset_type": "water_atm",
+  "location": "Ward 5, School Gate",
+  "timestamp": "2026-09-20",
+  "total_duration_ms": 2.12,
+  "confidence_score": 0.92,
+  "silence_flag": true,
+  "matched_complaints": [
+    "C-4612",
+    "C-4556"
+  ],
+  "recommended_action": "escalate",
+  "hedge_check_passed": true,
+  "escalated": true,
+  "steps": [
+    {
+      "step": 1,
+      "name": "retrieve_signals",
+      "description": "Retrieved grievance candidates from vector store using asset type and location",
+      "duration_ms": 0.81,
+      "output_count": 5,
+      "candidates": [
+        "C-4556",
+        "C-4743",
+        "C-4612",
+        "C-4747",
+        "C-4751"
+      ]
+    },
+    {
+      "step": 2,
+      "name": "silence_scorer",
+      "description": "Computed time-gap silence score based purely on maintenance logs vs expected interval",
+      "duration_ms": 0.28,
+      "silence_flag": true,
+      "months_overdue": 20.2,
+      "silence_score": 1.0
+    },
+    {
+      "step": 3,
+      "name": "cross_reference_classifier",
+      "description": "Filtered retrieved grievances using composite similarity (semantic + location + category)",
+      "duration_ms": 0.26,
+      "matches": [
+        {
+          "id": "C-4612",
+          "similarity": 0.9177
+        },
+        {
+          "id": "C-4556",
+          "similarity": 0.7236
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "name": "generate_flag_report",
+      "description": "Synthesized structured flag report with hedged language",
+      "duration_ms": 0.16,
+      "confidence_score": 0.92,
+      "recommended_action": "escalate"
+    },
+    {
+      "step": 5,
+      "name": "guardrails",
+      "description": "Audited for hedged terminology, evidence ID validity, and PII redaction",
+      "duration_ms": 0.41,
+      "hedge_check_passed": true
+    },
+    {
+      "step": 6,
+      "name": "escalate",
+      "description": "Generated formal inspection recommendation notice if confidence >= 0.75",
+      "duration_ms": 0.18,
+      "escalated": true,
+      "responsible_party": "Contractor: HydroTech Solutions (Under AMC/Warranty)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+asset_id,asset_type,location_name,latitude,longitude,install_date,expected_service_interval_months,warranty_end_date,contractor_name,last_maintenance_log_date
+SL-2023-114,solar_streetlight,"Ward 7, Market Road",19.1197,72.8467,2023-02-15,6,2026-02-15,SunTech Solar Pvt Ltd,
+SL-2024-067,solar_streetlight,"Ward 2, Park Lane",18.9350,72.8360,2024-03-15,6,2027-03-15,ABC Solar Pvt Ltd,2024-09-15
+SL-2026-001,solar_streetlight,"Ward 1, Gateway Road",18.9070,72.8150,2026-01-15,6,2029-01-15,SunTech Solar Pvt Ltd,2026-08-01
+SL-2023-042,solar_streetlight,"Ward 4, Beach Road",18.9550,72.8200,2023-04-10,6,2026-04-10,CityInfra Services,
+SL-2024-155,solar_streetlight,"Ward 8, Highway Junction",19.2310,72.8570,2024-06-01,6,2027-06-01,SunTech Solar Pvt Ltd,2025-01-15
+SL-2025-008,solar_streetlight,"Ward 3, Dock Road",18.9730,72.8470,2025-01-20,6,2028-01-20,ABC Solar Pvt Ltd,2026-07-10
+SL-2024-091,solar_streetlight,"Ward 5, Mill Compound",18.9770,72.8330,2024-07-15,6,2027-07-15,CityInfra Services,2025-02-01
+SL-2025-133,solar_streetlight,"Ward 6, Station Plaza",19.0250,72.8500,2025-03-01,6,2028-03-01,SunTech Solar Pvt Ltd,2026-06-15
+SL-2023-178,solar_streetlight,"Ward 9, Lake View Road",19.1730,72.9570,2023-08-10,6,2026-08-10,ABC Solar Pvt Ltd,
+SL-2024-203,solar_streetlight,"Ward 10, Industrial Area",19.1100,72.9200,2024-09-01,6,2027-09-01,CityInfra Services,2025-04-01
+SL-2025-055,solar_streetlight,"Ward 1, Navy Nagar",18.9100,72.8120,2025-05-15,6,2028-05-15,SunTech Solar Pvt Ltd,2026-08-20
+SL-2026-019,solar_streetlight,"Ward 7, Link Road",19.1250,72.8430,2026-02-01,6,2029-02-01,ABC Solar Pvt Ltd,2026-08-10
+SL-2024-176,solar_streetlight,"Ward 6, College Road",19.0280,72.8540,2024-11-15,6,2027-11-15,CityInfra Services,2025-06-01
+SL-2023-221,solar_streetlight,"Ward 3, Hospital Lane",18.9700,72.8500,2023-12-01,6,2026-12-01,SunTech Solar Pvt Ltd,2024-06-15
+SL-2025-089,solar_streetlight,"Ward 8, Garden Road",19.2350,72.8600,2025-08-01,6,2028-08-01,ABC Solar Pvt Ltd,2026-09-01
+WA-2024-033,water_atm,"Ward 3, Station Road",18.9750,72.8450,2024-01-10,3,2027-01-10,AquaPure Systems,
+WA-2026-015,water_atm,"Ward 4, Temple Street",18.9580,72.8220,2026-02-01,3,2029-02-01,HydroTech Solutions,2026-09-01
+WA-2023-078,water_atm,"Ward 1, Market Square",18.9050,72.8180,2023-06-15,3,2026-06-15,AquaPure Systems,
+WA-2024-102,water_atm,"Ward 5, School Gate",18.9800,72.8300,2024-04-20,3,2027-04-20,HydroTech Solutions,2024-10-15
+WA-2025-045,water_atm,"Ward 7, Bus Depot",19.1220,72.8500,2025-02-01,3,2028-02-01,AquaPure Systems,2026-08-05
+WA-2024-088,water_atm,"Ward 9, Park Entrance",19.1750,72.9550,2024-08-10,3,2027-08-10,HydroTech Solutions,2025-01-20
+WA-2025-119,water_atm,"Ward 2, College Campus",18.9380,72.8390,2025-06-01,3,2028-06-01,AquaPure Systems,2026-09-10
+WA-2023-156,water_atm,"Ward 10, Factory Gate",19.1120,72.9220,2023-11-01,3,2026-11-01,HydroTech Solutions,
+WA-2024-067,water_atm,"Ward 6, Hospital Road",19.0270,72.8480,2024-05-15,3,2027-05-15,AquaPure Systems,2025-03-01
+WA-2025-091,water_atm,"Ward 8, Metro Station",19.2280,72.8550,2025-09-01,3,2028-09-01,HydroTech Solutions,2026-09-05
+WA-2026-003,water_atm,"Ward 3, Playground",18.9710,72.8490,2026-03-15,3,2029-03-15,AquaPure Systems,2026-09-10
+WA-2024-134,water_atm,"Ward 4, Riverside Walk",18.9520,72.8250,2024-10-01,3,2027-10-01,HydroTech Solutions,2025-04-01
+WA-2023-201,water_atm,"Ward 7, Shopping Complex",19.1180,72.8450,2023-09-15,3,2026-09-15,AquaPure Systems,
+EV-2023-089,ev_charger,"Ward 5, Mall Parking",18.9790,72.8350,2023-06-20,4,2026-06-20,GreenCharge India,
+EV-2026-042,ev_charger,"Ward 6, Tech Park",19.0230,72.8520,2026-03-10,4,2029-03-10,GreenCharge India,2026-08-15
+EV-2024-015,ev_charger,"Ward 1, Hotel Zone",18.9090,72.8130,2024-02-01,4,2027-02-01,CityInfra Services,2024-08-01
+EV-2024-056,ev_charger,"Ward 8, Expressway Stop",19.2330,72.8590,2024-05-10,4,2027-05-10,GreenCharge India,2025-01-15
+EV-2025-023,ev_charger,"Ward 2, Convention Center",18.9330,72.8340,2025-01-15,4,2028-01-15,CityInfra Services,2026-07-20
+EV-2024-078,ev_charger,"Ward 10, Office Complex",19.1080,72.9180,2024-07-01,4,2027-07-01,GreenCharge India,
+EV-2025-099,ev_charger,"Ward 9, Residential Block",19.1700,72.9600,2025-04-20,4,2028-04-20,CityInfra Services,2026-08-25
+EV-2024-112,ev_charger,"Ward 3, Waterfront",18.9760,72.8430,2024-09-15,4,2027-09-15,GreenCharge India,2025-05-01
+EV-2025-067,ev_charger,"Ward 7, Cinema Road",19.1170,72.8490,2025-07-01,4,2028-07-01,CityInfra Services,2026-09-05
+EV-2023-145,ev_charger,"Ward 4, Commercial Hub",18.9570,72.8180,2023-10-01,4,2026-10-01,GreenCharge India,2024-04-01
+EV-2025-034,ev_charger,"Ward 5, University Gate",18.9750,72.8370,2025-03-01,4,2028-03-01,CityInfra Services,2026-07-10
+EV-2024-098,ev_charger,"Ward 6, Market Crossing",19.0220,72.8550,2024-08-20,4,2027-08-20,GreenCharge India,2025-02-01
+RH-2023-201,rainwater_unit,"Ward 9, Community Center",19.1760,72.9530,2023-03-01,6,2026-03-01,RainHarvest Solutions,
+RH-2026-088,rainwater_unit,"Ward 8, School Complex",19.2290,72.8610,2026-04-01,6,2029-04-01,RainHarvest Solutions,2026-07-20
+RH-2024-044,rainwater_unit,"Ward 1, Government Office",18.9080,72.8160,2024-01-15,6,2027-01-15,CityInfra Services,2024-08-01
+RH-2024-077,rainwater_unit,"Ward 4, Public Garden",18.9530,72.8230,2024-06-01,6,2027-06-01,RainHarvest Solutions,2025-01-15
+RH-2025-012,rainwater_unit,"Ward 2, Heritage Complex",18.9370,72.8380,2025-02-15,6,2028-02-15,CityInfra Services,2026-08-01
+RH-2023-133,rainwater_unit,"Ward 10, Warehouse District",19.1130,72.9250,2023-07-01,6,2026-07-01,RainHarvest Solutions,
+RH-2025-056,rainwater_unit,"Ward 5, Sports Complex",18.9740,72.8310,2025-05-01,6,2028-05-01,CityInfra Services,2026-09-10
+RH-2024-109,rainwater_unit,"Ward 7, Residential Colony",19.1230,72.8440,2024-08-15,6,2027-08-15,RainHarvest Solutions,2025-03-01
+RH-2025-088,rainwater_unit,"Ward 6, Civic Center",19.0200,72.8560,2025-10-01,6,2028-10-01,CityInfra Services,2026-09-15
+RH-2023-167,rainwater_unit,"Ward 3, Bridge Approach",18.9690,72.8510,2023-11-15,6,2026-11-15,RainHarvest Solutions,2024-06-01
